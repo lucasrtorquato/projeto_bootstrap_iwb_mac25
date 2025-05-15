@@ -17,8 +17,7 @@
   object-fit: cover; /* mantém a imagem proporcional e preenche o espaço */
 }
 
-
 .produto_carrinho {
-  width: 60px;
+  width: 50px;
   height: auto;
 }
