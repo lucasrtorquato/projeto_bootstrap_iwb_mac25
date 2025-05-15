@@ -17,6 +17,11 @@
   object-fit: cover; /* mantém a imagem proporcional e preenche o espaço */
 }
 
-#carouselExampleIndicators{
-  margin-top: 70px;
+.banners{
+  margin-top: 75px;
+}
+
+.produto_carrinho {
+  width: 60px;
+  height: auto;
 }
